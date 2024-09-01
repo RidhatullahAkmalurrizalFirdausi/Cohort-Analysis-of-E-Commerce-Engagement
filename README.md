@@ -1,11 +1,11 @@
 ## Data Head
-![]('https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/data%20head.png')
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/data%20head.png)
 ## Data Shape
-![]('https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/data%20shape.png')
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/data%20shape.png)
 ## Pivot Data Cohort
-![]('https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/pivot%20data%20cohort.png')
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/pivot%20data%20cohort.png)
 ## Customers' Retention Rate
-![]('https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/Customers'%20Retention%20Rate.png')
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Cohort-Analysis-of-E-Commerce-Engagement/main/Customers'%20Retention%20Rate.png)
 
 # Key Insight
 The heatmap visualizes retention rates across various customer cohorts, revealing how customer engagement changes monthly. 
